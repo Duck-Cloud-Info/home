@@ -1,0 +1,44 @@
+Duck_Cloud Software License Agreement
+
+This Software License Agreement ("Agreement") is entered into between Duck_Cloud, a company duly organized and existing under the laws of [your jurisdiction], with its principal place of business at [your address] ("Licensor"), and the individual or entity accessing or using the software ("Licensee").
+
+1. License Grant
+   Subject to the terms and conditions of this Agreement, Licensor hereby grants Licensee a limited, non-exclusive, non-transferable license to use the software ("Software") for internal business purposes only. This license does not include the right to sublicense, sell, distribute, or otherwise transfer the Software to any third party.
+
+2. Intellectual Property Rights
+   The Software is and shall remain the exclusive property of Licensor, and Licensee acknowledges and agrees that all rights, title, and interest in and to the Software, including any modifications, enhancements, or derivative works thereof, belong solely and exclusively to Licensor.
+
+3. Restrictions
+   Licensee shall not, directly or indirectly, (a) reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code or underlying algorithms of the Software; (b) modify, adapt, alter, or create derivative works based on the Software; (c) remove, alter, or obscure any copyright, trademark, or other proprietary notices contained in the Software; or (d) use the Software for any purpose other than as expressly permitted herein.
+
+4. Confidentiality
+   Licensee agrees to maintain the confidentiality of the Software and not to disclose or make available the Software to any third party without the prior written consent of Licensor.
+
+5. Termination
+   This Agreement shall remain in effect until terminated. Licensor may terminate this Agreement immediately upon written notice to Licensee in the event of a breach of any provision of this Agreement. Upon termination, Licensee shall cease all use of the Software and return or destroy all copies of the Software in its possession or control.
+
+6. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. LICENSOR DISCLAIMS ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. Limitation of Liability
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, OR OTHER TORTIOUS ACTION, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. Governing Law
+   This Agreement shall be governed by and construed in accordance with the laws of [your jurisdiction], without regard to its conflicts of law principles.
+
+9. Entire Agreement
+   This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, relating to such subject matter.
+
+10. Acceptance
+    By using the Software, Licensee acknowledges that it has read, understood, and agrees to be bound by the terms and conditions of this Agreement.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the [18.Feb.2024] Licensee first accesses or uses the Software.
+
+Duck_Cloud:
+[Isaac]
+[Board of Director]
+Date: [21.Feb.2024]
+
+Licensee:
+[Duck_CLOUD Software License Agreement]
+Date: [18.Feb.2024]
